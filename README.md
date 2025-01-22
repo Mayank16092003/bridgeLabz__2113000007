@@ -27,3 +27,5 @@
 14. Solved problem to find the distance in yards and miles.
 15. Solved problem to calculate the total price.
 16. Solved problem to find the maximum number of possible handshakes
+
+Solved basic java problems for level 2 also that were similar to level 1
