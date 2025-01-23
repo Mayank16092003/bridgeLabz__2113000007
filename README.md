@@ -51,3 +51,17 @@ learned basic fundamentals of conditional statements, looping statements and oth
 16. Solved problem to find odd and even numbers from given range.
 17. Solved problem to find bonus.
 18. Solved problem to calculate multiplication of a number.
+
+(23-01-25)(level 2)
+1.Solved problem to check whether a year is leap year or not.
+2.Solved problem to check whether a year is leap year or not using operators.
+3.Solved problem to calculate the percentage and find the grades.
+4.Solved problem to check whether a number is prime or not.
+5.Solved problem of Fizz Buzz.
+6.Solved problem of Fizz Buzz using while loop.
+7.Solved problem to find the BMI and status of the person.
+8.Solved problem to find the youngest and tallest friend among three.
+9.Solved problem to find the greatest factor of a number.
+10.Solved problem to find the power of a number.
+11.Solved problem to find the factors of a number.
+12.Solved problem to find the multiple of a number.
