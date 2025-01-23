@@ -29,3 +29,25 @@
 16. Solved problem to find the maximum number of possible handshakes
 
 Solved basic java problems for level 2 also that were similar to level 1
+
+learned basic fundamentals of conditional statements, looping statements and other statements used in java programming
+ also solved few questions related to this in level 1 problems -:
+(23-01-25)(level 1)
+1. Solved problem to check divisibility of 5.
+2. Solved program to check whether first number is smallest or not.
+3. Solved problem to check largest of three.
+4. Solved program to check for natural number and find sum for natural number.
+5. Solved program to check whether person can vote or not.
+6. Solved problem to check whether number is positive, negative or zer.
+7. Solved problem to check spring season.
+8. Solved problem of countdown using while loop.
+9. Solved problem of countdown using for loop.
+10. Solved problem to find sum until user enters zero.
+11. Solved problem to find sum until user enters zero using while loop or break statement.
+12. Solved problem to calculate sum of natural numbers using formula and while loop.
+13. Solved problem to calculate sum of natural numbers using formula and for loop.
+14. Solved problem to calculate factorial using while loop.
+15. Solved problem to calculate factorial using for loop.
+16. Solved problem to find odd and even numbers from given range.
+17. Solved problem to find bonus.
+18. Solved problem to calculate multiplication of a number.
