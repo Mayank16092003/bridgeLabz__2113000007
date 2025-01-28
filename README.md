@@ -88,3 +88,11 @@ Following were key points of our study:-
 8. Java 2 Dimensional Array (Matrix)
 9. Accessing, finding size, etc of Multi-Dimensional Array
 10. Using Java System error() message and exit() method
+on 28-01-2025 learned about methods and key points of this day learning was:-
+User Defined Methods
+Using Methods Multiple Times
+Making Methods more Dynamic
+Recursive Methods 
+Java Static Methods
+Java Standard Library Methods
+java.lang.Math class
