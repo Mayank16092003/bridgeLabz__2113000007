@@ -96,3 +96,21 @@ Recursive Methods
 Java Static Methods
 Java Standard Library Methods
 java.lang.Math class
+
+ON 29-01-2025 we learned about java strings and following were key points
+1. Java Strings
+2. Create Strings
+3. Use of "\" Escape Sequence
+4. Take String Input
+5. String Arrays
+6. String as Method Parameters
+7. String Class Built-In Methods
+8. ASCII Character Codes
+9. Java Exceptions
+10. Java Exception Hierarchy
+11. Java Exception Types
+12. java.lang.RuntimeException or Unchecked Exceptions
+13. Checked Exceptions
+14. Introduce a few common built-in functions - Random, Math
+15.Introduce Date and time are essential in many applications. 
+16.From showing the current date on a website to scheduling events, handling dates and times is a common task in programming
