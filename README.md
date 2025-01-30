@@ -114,3 +114,6 @@ ON 29-01-2025 we learned about java strings and following were key points
 14. Introduce a few common built-in functions - Random, Math
 15.Introduce Date and time are essential in many applications. 
 16.From showing the current date on a website to scheduling events, handling dates and times is a common task in programming
+on 30-01-2025 we learned about java as procedural language and concepts of object oriented programming.
+Also learned comparison between procedural language and OOP
+We also learned about java class and objects.
