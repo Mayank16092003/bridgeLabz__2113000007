@@ -1,5 +1,4 @@
 package constructors;
-
 public class HotelBooking {
     private String guestName;
     private String roomType;
