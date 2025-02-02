@@ -117,3 +117,10 @@ ON 29-01-2025 we learned about java strings and following were key points
 on 30-01-2025 we learned about java as procedural language and concepts of object oriented programming.
 Also learned comparison between procedural language and OOP
 We also learned about java class and objects.
+
+On 31-01-2025 and 01-02-2025
+Learned about java constructos, instance variables and access modifiers.Following were key points:
+1.Key features of constructors.
+2.Constructor overloading.
+3.Access Modifiers in java
+4.Instance vs class variables
