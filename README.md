@@ -129,3 +129,6 @@ On 03-02-2025
 Learned about this keyword, general uses of "this " keyword,static keyword, its definition, key features, scope of static variables and advantages of static keyword.
 Also learned about limitations of static keyword.
 Also learning of the day includes about finl keyword, instance of operator, its use cases and comparison between this, final, static and instance of keywords.
+
+On 06-02-2025
+Learned and performed the programs based on the class diagrams, object diagram, sequence diagram, association, aggregation like Library Management, Bank Management, University Management, Hospital Management and so on.
